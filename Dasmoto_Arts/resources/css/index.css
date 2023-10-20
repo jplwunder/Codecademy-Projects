@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  header {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("C:\Users\joao.wunderlich\OneDrive\Coding\Projects\Codecademy\Dasmoto_Arts\resources\image_4.jpeg")
+  }
+  
+  h1 {
+    color: SeaGreen;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
